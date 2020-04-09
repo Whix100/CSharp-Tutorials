@@ -1,0 +1,9 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\bin\Debug\Hello World WinForms.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\bin\Debug\Hello World WinForms.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\bin\Debug\Hello World WinForms.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\obj\Debug\Hello World WinForms.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\obj\Debug\Hello_World_WinForms.Form1.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\obj\Debug\Hello_World_WinForms.Properties.Resources.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\obj\Debug\Hello World WinForms.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\obj\Debug\Hello World WinForms.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World WinForms\Hello World WinForms\obj\Debug\Hello World WinForms.pdb

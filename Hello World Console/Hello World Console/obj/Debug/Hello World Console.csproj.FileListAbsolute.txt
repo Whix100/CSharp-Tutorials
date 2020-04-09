@@ -1,0 +1,6 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World Console\Hello World Console\bin\Debug\Hello World Console.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World Console\Hello World Console\bin\Debug\Hello World Console.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World Console\Hello World Console\bin\Debug\Hello World Console.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World Console\Hello World Console\obj\Debug\Hello World Console.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World Console\Hello World Console\obj\Debug\Hello World Console.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Hello World Console\Hello World Console\obj\Debug\Hello World Console.pdb
