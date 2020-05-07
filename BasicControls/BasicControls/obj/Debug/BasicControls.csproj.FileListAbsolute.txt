@@ -1,0 +1,9 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\bin\Debug\BasicControls.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\bin\Debug\BasicControls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\bin\Debug\BasicControls.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\obj\Debug\BasicControls.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\obj\Debug\BasicControls.Form1.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\obj\Debug\BasicControls.Properties.Resources.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\obj\Debug\BasicControls.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\obj\Debug\BasicControls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\BasicControls\BasicControls\obj\Debug\BasicControls.pdb
