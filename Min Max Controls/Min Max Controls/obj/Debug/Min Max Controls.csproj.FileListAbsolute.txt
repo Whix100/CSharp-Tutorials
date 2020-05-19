@@ -1,0 +1,9 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\bin\Debug\Min Max Controls.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\bin\Debug\Min Max Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\bin\Debug\Min Max Controls.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\obj\Debug\Min Max Controls.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\obj\Debug\Min_Max_Controls.Form1.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\obj\Debug\Min_Max_Controls.Properties.Resources.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\obj\Debug\Min Max Controls.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\obj\Debug\Min Max Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Min Max Controls\Min Max Controls\obj\Debug\Min Max Controls.pdb
