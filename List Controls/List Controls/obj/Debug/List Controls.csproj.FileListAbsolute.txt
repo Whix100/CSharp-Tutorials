@@ -1,0 +1,9 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\bin\Debug\List Controls.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\bin\Debug\List Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\bin\Debug\List Controls.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\obj\Debug\List Controls.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\obj\Debug\List_Controls.Form1.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\obj\Debug\List_Controls.Properties.Resources.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\obj\Debug\List Controls.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\obj\Debug\List Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\List Controls\List Controls\obj\Debug\List Controls.pdb
