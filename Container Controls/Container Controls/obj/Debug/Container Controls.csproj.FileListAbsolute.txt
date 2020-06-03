@@ -1,0 +1,9 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\bin\Debug\Container Controls.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\bin\Debug\Container Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\bin\Debug\Container Controls.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\obj\Debug\Container Controls.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\obj\Debug\Container_Controls.Form1.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\obj\Debug\Container_Controls.Properties.Resources.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\obj\Debug\Container Controls.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\obj\Debug\Container Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Container Controls\Container Controls\obj\Debug\Container Controls.pdb
