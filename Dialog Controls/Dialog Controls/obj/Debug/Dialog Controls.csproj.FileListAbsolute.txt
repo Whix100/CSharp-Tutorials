@@ -1,0 +1,9 @@
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\bin\Debug\Dialog Controls.exe.config
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\bin\Debug\Dialog Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\bin\Debug\Dialog Controls.pdb
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.csprojAssemblyReference.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\obj\Debug\Dialog_Controls.Form1.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\obj\Debug\Dialog_Controls.Properties.Resources.resources
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.csproj.GenerateResource.cache
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.exe
+C:\Users\whix1\source\repos\CSharp-Tutorials\Dialog Controls\Dialog Controls\obj\Debug\Dialog Controls.pdb
